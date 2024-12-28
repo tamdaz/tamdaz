@@ -38,6 +38,7 @@
 <div style="display: flex; flex-direction: row;">
   <img src="img/skills/libs and frameworks/laravel-logo.svg" alt="laravel" width="50" />
   <img src="img/skills/libs and frameworks/symfony-logo.svg" alt="symfony" width="50" />
+  <img src="img/skills/libs and frameworks/slim-logo.svg" alt="slim" width="50" />
   <img src="img/skills/libs and frameworks/react-logo.svg" alt="react" width="50" />
 </div>
 
