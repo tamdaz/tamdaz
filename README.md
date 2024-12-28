@@ -1,4 +1,4 @@
-d<a href="https://tamdaz.fr">
+<a href="https://tamdaz.fr" target="_blank">
   <img
     src="https://media.licdn.com/dms/image/v2/D4D16AQFCa3RgMpHCvA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1720056588378?e=2147483647&v=beta&t=S4J07wNg1KB4r-qyL8O8WqmkOu3PKWzAQjTmzSUbRJI"
     width="100%"
