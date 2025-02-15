@@ -25,6 +25,9 @@
   <img src="img/skills/tools/docker-logo.svg" alt="docker" width="50" />
   <img src="img/skills/tools/git-logo.svg" alt="git" width="50" />
   <img src="img/skills/tools/vite-logo.svg" alt="vite" width="50" />
+  <img src="img/skills/tools/power-automate-logo.svg" alt="power-automate" width="50" />
+  <img src="img/skills/tools/office-logo.svg" alt="office" width="50" />
+  <img src="img/skills/tools/glpi-logo.png" alt="glpi" width="50" />
 </div>
 
 ## Databases
